@@ -1,0 +1,5 @@
+├── app.py           # Main Streamlit application
+├── data.py          # City disease data & constants
+├── prediction.py    # Disease prediction logic
+├── requirements.txt # Python dependencies
+└── README.md        # Documentation
